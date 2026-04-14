@@ -10,12 +10,20 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+<<<<<<< HEAD
         android:theme="@style/Theme.Grid">
+=======
+        android:theme="@style/Theme.ConstrainLayout">
+>>>>>>> 44cfe5b100bdb00241e17d530c61e9d4cac1e348
         <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
+<<<<<<< HEAD
             android:theme="@style/Theme.Grid">
+=======
+            android:theme="@style/Theme.ConstrainLayout">
+>>>>>>> 44cfe5b100bdb00241e17d530c61e9d4cac1e348
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -4,7 +4,11 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.grid"
+=======
+    namespace = "com.example.constrainlayout"
+>>>>>>> 44cfe5b100bdb00241e17d530c61e9d4cac1e348
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -12,7 +16,11 @@ android {
     }
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId = "com.example.grid"
+=======
+        applicationId = "com.example.constrainlayout"
+>>>>>>> 44cfe5b100bdb00241e17d530c61e9d4cac1e348
         minSdk = 26
         targetSdk = 36
         versionCode = 1
@@ -40,6 +48,10 @@ android {
 }
 
 dependencies {
+<<<<<<< HEAD
+=======
+    implementation("androidx.constraintlayout:constraintlayout:2.1.4")
+>>>>>>> 44cfe5b100bdb00241e17d530c61e9d4cac1e348
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)

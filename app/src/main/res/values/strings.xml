@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Grid</string>
+=======
+    <string name="app_name">Constrain Layout</string>
+>>>>>>> 44cfe5b100bdb00241e17d530c61e9d4cac1e348
 </resources>

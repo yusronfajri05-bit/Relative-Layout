@@ -22,6 +22,10 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "Grid"
+=======
+rootProject.name = "Constrain Layout"
+>>>>>>> 44cfe5b100bdb00241e17d530c61e9d4cac1e348
 include(":app")
  
